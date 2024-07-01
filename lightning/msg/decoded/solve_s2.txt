@@ -1,0 +1,2 @@
+Correct, you solved spaceship2 with a score of 50!
+
